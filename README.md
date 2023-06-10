@@ -15,8 +15,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution URL]()
-- Live Site URL: [live site URL]()
+- Solution URL: [solution URL](https://github.com/karimabdelghanyhefnawy1/order-summary-component-main/deployments/activity_log?environment=github-pages)
+- Live Site URL: [live site URL](https://karimabdelghanyhefnawy1.github.io/order-summary-component-main/)
 
 ## My process
 
